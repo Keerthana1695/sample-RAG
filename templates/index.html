@@ -97,7 +97,7 @@
       document.getElementById("answer").textContent = "Thinking...";
 
       try {
-        const response = await fetch("/chat", {
+        const response = await fetch("/llm", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ question })
