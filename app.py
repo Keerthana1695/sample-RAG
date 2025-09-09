@@ -56,7 +56,7 @@ def query_granite(prompt: str) -> str:
         "presence_penalty": 1.03,
     }
     headers = {"Content-Type": "application/json"}
-    response = requests.post(INFERENCE_SERVER_URL, json=payload, headers=headers)
+    response = requests.post(INFERENCE_SERVER_URL, json=payload, headers=headers,verify=False)
     if response.status_code == 200:
         return response.json()['choices'][0]['text']
     else:
