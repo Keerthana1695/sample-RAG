@@ -69,7 +69,7 @@ def answer_query(query: str) -> str:
         return "No relevant context found."
     context = results[0].page_content
     print ("context:", context)
-    prompt = f"""Answer the question based on the context below. Your answer should be in German Language.
+    prompt = f"""Answer the question based on the context below. Your answer should be in German Language. Give a funny answer, acting like someone from stone age
 Context:
 {context}
 Question:
