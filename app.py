@@ -14,13 +14,6 @@ os.environ["TRANSFORMERS_CACHE"] = "/tmp/cache"
 os.environ["HF_HOME"] = "/tmp/cache"
 
 app = Flask(__name__)
-### --- RAG Pipeline Setup ---
-# def clone_repo(repo_url, target_dir="repo"):
-#     if not os.path.exists(target_dir):
-#         subprocess.run(["git", "clone", repo_url, target_dir], check=True)
-#     return os.path.join(target_dir, "document .docx")  # adjust if needed
-# repo_url = "https://github.com/Keerthana1695/sample-RAG.git"
-# doc_path = clone_repo(repo_url)
 file_path = ("./document.txt")
 loader = TextLoader(file_path)
 docs = loader.load()
@@ -30,9 +23,9 @@ text_splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(
 )
 split_docs = text_splitter.split_documents(docs)
 # Elasticsearch and Granite inference config
-ES_HOST = "https://elasticsearch-sample-sample-rag.apps.cluster-xbwnc.xbwnc.sandbox1562.opentlc.com"
-ES_AUTH = ("elastic", "o5UmhvroGA8HvHD8MR3IdkPH")
-INFERENCE_SERVER_URL = "https://granite-31-2b-instruct-sample-rag.apps.cluster-xbwnc.xbwnc.sandbox1562.opentlc.com/v1/completions"
+ES_HOST = "https://elasticsearch-sample-sample-rag.apps.cluster-dsfw4.dsfw4.sandbox3157.opentlc.com"
+ES_AUTH = ("elastic", "SCBALkudKntL2AMA8vaFPMdB")
+INFERENCE_SERVER_URL = "https://granite-31-2b-instruct-sample-rag.apps.cluster-dsfw4.dsfw4.sandbox3157.opentlc.com/v1/completions"
 MODEL_NAME = "granite-31-2b-instruct"
 client = Elasticsearch([ES_HOST], basic_auth=ES_AUTH, verify_certs=False)
 client.info()
