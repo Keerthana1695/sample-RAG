@@ -23,7 +23,7 @@ text_splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(
 )
 split_docs = text_splitter.split_documents(docs)
 # Elasticsearch and Granite inference config
-ES_HOST = "	https://elasticsearch-sample-sample-rag.apps.cluster-jpgx5.jpgx5.sandbox2228.opentlc.com"
+ES_HOST = "https://elasticsearch-sample-sample-rag.apps.cluster-jpgx5.jpgx5.sandbox2228.opentlc.com"
 ES_AUTH = ("elastic", "YGpyzALPEEMOgf5NRl4ufJf5")
 INFERENCE_SERVER_URL = "https://granite-31-2b-instruct-sample-rag.apps.cluster-jpgx5.jpgx5.sandbox2228.opentlc.com/v1/completions"
 MODEL_NAME = "granite-31-2b-instruct"
