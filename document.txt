@@ -1,53 +1,17 @@
-Pakistan Mobile Communications Limited (PMCL),[2][3] doing business as Jazz, is a Pakistani mobile network operator headquartered in Islamabad.
+DZ Bank AG (German pronunciation: [deː ˈt͡sɛt baŋk aːɡeː] ⓘ) is the second largest bank in Germany by asset size and the central institution for around 700 cooperative banks and their around 7,200 branch offices.[3] Within that Bundesverband der Deutschen Volksbanken und Raiffeisenbanken, which is one of Germany's largest private sector financial service organizations and manages assets of around 1.175 trillion euros,[3] DZ Bank functions both as a central institution and as a corporate and investment bank.
 
-It is currently led by chief executive officer (CEO) Aamir Hafeez Ibrahim.[4]
+DZ Bank is an acronym for Deutsche Zentral-Genossenschaftsbank (literally "German Central Cooperative Bank").
 
-As of January 2026, Jazz has 74 million subscribers in Pakistan, among which 55 million are 4G subscribers. It has the highest market share of all mobile network operators at 37%.[5]
+As a holding, the DZ Bank Group defines itself primarily as a service provider for local cooperative banks and their 30 million or so clients. The DZ Bank Group includes: Bausparkasse Schwäbisch Hall, a building society; DZ HYP (German pronunciation: [deː t͡sɛt ˈhyp aːˌɡeː] ⓘ), a provider of commercial real estate finance; DZ Privatbank Gruppe; R+V Versicherung, an insurance company; TeamBank, a provider of consumer finance; Union Investment Group, an asset management company; VR Smart Finanz; and various other specialized institutions.
 
-History
-Jazz was founded as Mobilink in 1994 in a joint venture between Saif Group and Motorola Inc. In February 2001, Egypt based Orascom Investment Holding bought Motorola's shares in Jazz to become the majority shareholder with 69% control.[6] Then, in June 2007, Orascom further purchased the remaining shares under Saif Group's control to become Jazz's 100% owner.[citation needed]
+DZ Bank, headquartered in Frankfurt, Germany, is a member of CIBP, EACB, the Euro Banking Association, and Unico. It maintains branches, subsidiaries and representative offices in key financial centers and economic regions worldwide. The DZ Bank building in Berlin, located at Pariser Platz 3, was designed by architect Frank Gehry.
 
-In 2010, Dutch operator VEON agreed to acquire most of the telecom assets of Orascom, including Jazz, in a $6.5 billion deal, creating the world's fifth-largest mobile network operator by subscriber base.[7] In November 2015, VEON announced the acquisition of Warid Pakistan, a subsidiary of Abu Dhabi Group. Completed in July 2016 after due approvals, the first-ever local telecom company acquisition created a combined subscriber base of 50 million. Following the merger of Mobilink and Warid Pakistan, Mobilink was officially rebranded to Jazz in 2017.[8]
+DZ Bank also has one of the most significant collections of contemporary artistic photography which today comprises over 6,000 works by more than 550 artists.
 
-In March 2021, VEON's ownership rose to 100% after acquiring 15% of the shares held by Abu Dhabi Group for US$273 million.[9]
+In 2016 DZ Bank was merged with WGZ Bank, the central institute of the cooperative banks of both the Rheinland (Rhineland) and Westfalen (Westphalia).[4]
 
-Network
-Jazz has over 14,000 active cell sites in the country,[10] with over 25,000 kilometers of fiber-optic cables laid. Huawei, Nokia-Siemens, and ZTE are the primary vendors for networking equipment at Jazz, including Radio Base Stations, microwave equipment and network switches.[11]
+DZ Bank has been designated as a Significant Institution since the entry into force of European Banking Supervision in late 2014, and as a consequence is directly supervised by the European Central Bank.[5][6]
 
-In 2014, Jazz participated in the 2014 NGMS auction held by PTA, which allowed them to bid for a 3G license, and a 10 MHz block in the 2100 MHz band was allocated to Jazz.[12]
+Investments
+DZ Bank is a shareholder of Canadian oil and gas company TC Energy, which is behind the controversial Coastal GasLink Pipeline slated to be built on unceded Wet'suwet'en Nation territory in Northern British Columbia. DZ Bank increased their stake on 31 March 2020 from 1.22 million to 4.27M shares, an increase of ~250%.[7]
 
-In March 2017, Jazz inaugurated their Network Operations Center (NOC) which makes use of IBM and Dell EMC products to manage day-to-day network operations and provides the company with 24x7 network surveillance.[13][14][15]
-
-Radio frequency summary
-Frequency	Protocol	Band	Class	Channel Width
-900 MHz	GSM/GPRS/EDGE	8	2G	7.4 MHz
-900 MHz	LTE/LTE-A	8	4G/4G+	5 MHz
-1800 MHz	LTE/LTE-A	3	4G/4G+	20 MHz
-2100 MHz	LTE/LTE-A	1	4G/4G+	10 MHz
-Jazz's participation in the 2014 NGMS Auction held by PTA allowed them to bid for the 3G license, which included a 10 MHz block in the 2100 MHz band. In July 2014, they announced that they have over 10,000 3G and 9,000 4G ready cell sites. Jazz did not bid for any 4G spectrum in the 2014 NGMS auction.
-
-Post-merger with Warid, Jazz was able to use Warid's license allowing them to become a 4G network using a 5 MHz block in the 1800 MHz band. In May 2017, Jazz won the 2017 NGMS auction held by PTA.[16] This includes a 10 MHz block in the 1800 MHz (FDD-LTE Band 3) frequency to be used for Jazz 4G. Jazz was also awarded additional 4G spectrum on 30 June 2017 by PTA.[17][18]
-
-4G+ / LTE-A launch
-Jazz has refarmed a 10 MHz block from its 900 MHz spectrum for carrier aggregation with their existing 1800 MHz 4G spectrum. The LTE-A network would be rolled out to cater for growing demand.[19] This makes them the third carrier after Telenor Pakistan and Zong 4G to officially launch LTE-A in the country.[20]
-
-In July 2021, Jazz upgraded its existing LTE network to LTE-A Pro, with the introduction of 256-QAM and Massive MIMO.
-
-Voice over LTE (VoLTE)
-Jazz tested VoLTE in May 2017 with its partners Huawei and Nokia, announced in a press statement.
-
-Jazz rolled out VoLTE across its network in February 2022, with supported devices including Apple, Samsung, Huawei, Oppo, Vivo, Itel, Xiaomi, Realme, Infinix and Jazz Digit branded feature phones.[21]
-
-WiFi Calling (VoWiFi)
-Jazz rolled out Voice over WiFi (VoWiFi) capabilities branded 'JazzFi' in July 2023. It is one of the two carriers in Pakistan to offer VoWiFi.[22]
-
-5G Trials
-In January 2020, Jazz had reported that they had successfully carried out 5G trials with reaching speeds of 1.5 Gbit/s. These trials were carried out on the 2.6 GHz spectrum.[23]
-
-3G Shutdown
-Jazz announced that it would shutdown its 3G network nationwide by November 2024 to repurpose the spectrum for expansion of its 4G network.[24] Their 3G network was shut off nationwide on 18 November 2024.[25]
-
-Subsidiaries
-JazzCash
-Main article: JazzCash
-Jazz had partnered with Mobilink Microfinance Banking to make an entry into the banking market, initially launched under the MobiCash brand name, it was later changed to JazzCash. It is a direct competitor to Telenor Pakistan's Easypaisa.
