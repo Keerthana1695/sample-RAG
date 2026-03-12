@@ -23,9 +23,9 @@ text_splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(
 )
 split_docs = text_splitter.split_documents(docs)
 # Elasticsearch and Granite inference config
-ES_HOST = "https://elasticsearch-sample-sample-rag.apps.cluster-dsfw4.dsfw4.sandbox3157.opentlc.com"
-ES_AUTH = ("elastic", "SCBALkudKntL2AMA8vaFPMdB")
-INFERENCE_SERVER_URL = "https://granite-31-2b-instruct-sample-rag.apps.cluster-dsfw4.dsfw4.sandbox3157.opentlc.com/v1/completions"
+ES_HOST = "	https://elasticsearch-sample-sample-rag.apps.cluster-jpgx5.jpgx5.sandbox2228.opentlc.com"
+ES_AUTH = ("elastic", "YGpyzALPEEMOgf5NRl4ufJf5")
+INFERENCE_SERVER_URL = "https://granite-31-2b-instruct-sample-rag.apps.cluster-jpgx5.jpgx5.sandbox2228.opentlc.com/v1/completions"
 MODEL_NAME = "granite-31-2b-instruct"
 client = Elasticsearch([ES_HOST], basic_auth=ES_AUTH, verify_certs=False)
 client.info()
@@ -62,7 +62,7 @@ def answer_query(query: str) -> str:
         return "No relevant context found."
     context = results[0].page_content
     print ("context:", context)
-    prompt = f"""Answer the question based on the context below. Your answer should be in Urdu Language.
+    prompt = f"""Answer the question based on the context below.
 Context:
 {context}
 Question:
